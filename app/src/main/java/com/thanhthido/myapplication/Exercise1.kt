@@ -1,5 +1,7 @@
 package com.thanhthido.myapplication
 
+import kotlin.random.Random
+
 fun main() {
     // + - * /
     // cong chuoi, cong gia tri int, cong gia tri foat (+ - * /)
