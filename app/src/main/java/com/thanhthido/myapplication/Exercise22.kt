@@ -11,10 +11,10 @@ fun main(){
 
     when (lengthOfValue) {
         null-> {
-            print("Value Null :$value")
+            print("Value Null: $value")
         }
         else -> {
-            print("Value No Null")
+            print("Value No Null: $value")
         }
     }
 }
